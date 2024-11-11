@@ -1,0 +1,8 @@
+tqdm
+matplotlib
+
+nltk
+bokeh
+umap-learn
+
+torch
