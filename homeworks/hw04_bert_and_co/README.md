@@ -1,0 +1,2 @@
+* Классификация текстов классическими методами: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24f_yandex_ml_trainings/homeworks/hw04_bert_and_co/assignment_classic_text_classification.ipynb)
+* Классификация текстов с использованием BERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/24f_yandex_ml_trainings/homeworks/hw04_bert_and_co/assignment_bert_for_text_classification.ipynb)
