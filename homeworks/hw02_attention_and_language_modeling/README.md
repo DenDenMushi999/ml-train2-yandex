@@ -1,1 +1,3 @@
 - For task hw02_language_modeling.ipynb there was created a copy of notebook (Copy_of_NLP...) in order to remain cell outputs of original notebook
+- Completed Assignment language modeling with RNN (generation result is bad): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M-Fmd4gtUMy6DXjPUB0NLJWiHFMBX796?usp=sharing)
+- Completed Assignment attention: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M1KoJ08IBKi9LX7n5vs1gS-XpZWHcgPq?usp=sharing)
